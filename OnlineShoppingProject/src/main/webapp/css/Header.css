@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.heade
+{
+	width: 100%;
+background-color:gray;
+font-size: 20px;
+text-align: center;
+position: fixed;
+ 
+}
+button
+{
+	width: 40px;
+}

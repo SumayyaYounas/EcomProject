@@ -1,0 +1,39 @@
+body
+{
+	 background:linear-gradient(to bottom, #0033cc 0%, #ff6600 87%);
+	   background-size: cover;
+}
+#container
+{
+	
+	height: 600px;
+}
+.signup
+{
+	
+	width: 300px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-left: 150px;
+	margin-top: 200px;
+	height: 370px;
+
+}
+input[type="email"]
+input[type="password"]
+input[type="submit"]
+{
+  
+    height: 25px;
+}
+.whysign
+{
+	background-color: white;
+	
+	margin-left: 650px;
+	margin-top: -400px;
+	border-radius:70px;
+    padding: 10px;
+    width:500px;
+    height: 200px;
+}
